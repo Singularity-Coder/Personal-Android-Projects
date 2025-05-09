@@ -1,5 +1,5 @@
-# Android Examples
-A list of android samples on different topics!
+# Personal-Android-Projects
+Collection of Android projects for fun and self-learning.
 
 ![alt text](https://github.com/Singularity-Coder/Android-Examples/blob/master/showcase/1.jpg)
 ![alt text](https://github.com/Singularity-Coder/Android-Examples/blob/master/showcase/2.jpg)
